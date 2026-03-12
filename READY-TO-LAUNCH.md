@@ -20,7 +20,7 @@ All templates created and uploaded to GitHub:
 | Creator Content System | ✅ Complete | Upload to Gumroad |
 | AI Workflow Manager | ✅ Complete | Upload to Gumroad |
 | Canva Templates | ✅ Guide ready | Create in Canva → Upload |
-| Presentation Pack | ✅ Guide ready | Create in Canva → Upload |
+| Presentation Starter Pack | ✅ Guide ready | Create in Canva → Upload |
 
 ---
 
@@ -54,7 +54,7 @@ Use the templates from GitHub:
 - [ ] Upload Creator Content System ($15)
 - [ ] Upload AI Workflow Manager ($12)
 - [ ] Create Canva Social Media Bundle ($14)
-- [ ] Create Canva Presentation Pack ($9)
+- [ ] Create Canva Presentation Starter Pack ($9)
 - [ ] Set prices ($9-19)
 - [ ] Enable email capture
 - [ ] Share link!
@@ -88,7 +88,7 @@ Use the templates from GitHub:
 | Creator Content System | $15 | $300-1000/mo |
 | AI Workflow Manager | $12 | $200-800/mo |
 | Social Media Bundle | $14 | $300-1000/mo |
-| Presentation Pack | $9 | $100-500/mo |
+| Presentation Starter Pack | $9 | $100-500/mo |
 | **TOTAL** | $69 | **$1,400-5,300/mo** |
 
 ---

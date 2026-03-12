@@ -51,7 +51,7 @@ The Grid strategy places buy and sell orders at regular price intervals (grid le
 ### Risk Rules (Moderate)
 
 - Max position size: 2% of portfolio per trade
-- Max15% ( drawdown: stop trading if reached)
+- Max drawdown: 15% (stop trading if reached)
 - Stop loss: Hard stop at 15% drawdown
 
 ### Files
