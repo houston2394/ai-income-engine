@@ -12,15 +12,11 @@ ai-income-engine/
 │
 ├── digital-products/     # Digital products
 │   ├── templates/        # Product templates
-│   ├── notion/           # Notion templates
-│   ├── canva/            # Canva templates
+│   │   ├── notion/       # Notion templates
+│   │   └── canva/        # Canva templates
+│   ├── import-ready/     # Ready-to-import Notion pages
+│   ├── GUMROAD-SETUP.md  # Gumroad upload guide
 │   └── PRODUCT-IDEA.md   # Product plans
-│
-├── saas/                # SaaS products (Phase 2+)
-│
-├── docs/                # Documentation
-│   ├── planning/         # GSD planning files
-│   └── guides/          # How-to guides
 │
 ├── .github/
 │   └── workflows/        # CI/CD pipelines

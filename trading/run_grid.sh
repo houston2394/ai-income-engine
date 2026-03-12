@@ -27,7 +27,7 @@ fi
 # Check for config
 if [ ! -f "config/config.json" ]; then
     echo "ERROR: config/config.json not found!"
-    echo "Please copy config.example.json to config.json and add your API keys"
+    echo "Please copy config/example_config.json to config/config.json and add your API keys"
     exit 1
 fi
 
